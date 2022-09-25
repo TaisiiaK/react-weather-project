@@ -1,0 +1,30 @@
+.Header {
+  font-family: sans-serif;
+  text-align: center;
+  color: blue;
+}
+form {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0;
+}
+.search {
+  font-size: 16px;
+  font-weight: lighter;
+  background-color: blue;
+  color: white;
+  border-radius: 3px;
+  border-color: blue;
+  width: 80px;
+  height: 32px;
+  margin-left: 2px;
+}
+.entercity {
+  width: 200px;
+  height: 32px;
+}
