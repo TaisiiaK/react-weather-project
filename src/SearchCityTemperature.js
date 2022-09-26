@@ -60,6 +60,19 @@ export default function WeatherSearch() {
         </ul>
       )}
       {error && <p>{error}</p>}
+      <p>
+        <a
+          href="https://github.com/TaisiiaK/react-weather-project.git"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code
+        </a>{" "}
+        by Taisiia Kompaniiets from{" "}
+        <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
+          SheCodes
+        </a>
+      </p>
     </div>
   );
 }
