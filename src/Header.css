@@ -1,7 +1,7 @@
 .Header {
   font-family: sans-serif;
   text-align: center;
-  color: blue;
+  color: #596aca;
 }
 form {
   text-align: center;
@@ -16,10 +16,10 @@ img {
 .search {
   font-size: 16px;
   font-weight: lighter;
-  background-color: blue;
+  background-color: #596aca;
   color: white;
   border-radius: 3px;
-  border-color: blue;
+  border-color: #596aca;
   width: 80px;
   height: 32px;
   margin-left: 4px;
